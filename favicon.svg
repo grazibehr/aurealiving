@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="32" fill="#0a0a0a" />
+
+  <rect
+    x="48"
+    y="48"
+    width="416"
+    height="416"
+    rx="16"
+    fill="none"
+    stroke="#c9a961"
+    stroke-width="6"
+  />
+
+  <text
+    x="256"
+    y="290"
+    text-anchor="middle"
+    font-family="Cormorant Garamond, serif"
+    font-size="220"
+    letter-spacing="10"
+    fill="#c9a961"
+  >
+    AL
+  </text>
+</svg>
